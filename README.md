@@ -14,12 +14,15 @@ Technologies used while making the project are:  HTML, CSS, and JavaScript.
 On this UI page, you can see that there is an input field for entering the tasks and an add button for adding the work to the list.
 
 ![After Adding the Lists](/TO-DO_UI/AddList.png)
+
 After entering the task and clicking add the task will display like this.
 
 ![Marking the task Completed](/TO-DO_UI/TaskCompleted.png)
+
 Once the task is completed we can mark the task completed by clicking on it and we also mark it as incomplete by clicking it again. 
 
 ![Removing the Task](/TO-DO_UI/TaskRemove.png)
+
 Once completed we can remove the task from the list by clicking on the "close" or "cross" button
 
 We have used the local Storage so that even if we refresh the page or visit it again the task entered will remain the same with its status
