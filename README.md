@@ -10,6 +10,7 @@ Technologies used while making the project are:  HTML, CSS, and JavaScript.
 
 
 ![The Starting Page of TO-DO List](/TO-DO_UI/FrontPage.png)
+
 On this UI page, you can see that there is an input field for entering the tasks and an add button for adding the work to the list.
 
 ![After Adding the Lists](/TO-DO_UI/AddList.png)
