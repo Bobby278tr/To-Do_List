@@ -1,27 +1,27 @@
 # TO-DO-LIST
 
-To-do-list is an app to list down the task one needed to do.
+A to-do list is an app to list down the tasks one needs to do.
 
 ## About Project
 
-To-do List keep the track of the tasks needed to be done and later once completed we can mark it completed and later remove from the list. It keeps the list stored in the local storage so we can access it whenever we want.
+A to-do list keeps track of the tasks that need to be done and once completed we can mark it completed and later remove it from the list. It keeps the list stored in the local storage so we can access it whenever we want.
 
 Technologies used while making the project are:  HTML, CSS, and JavaScript.
 
 
 ![The Starting Page of TO-DO List](/TO-DO_UI/FrontPage.png)
-In this UI page you can see that there is an input field for entering cities names and an add button for add the work in the lsit.
+On this UI page, you can see that there is an input field for entering the tasks and an add button for adding the work to the list.
 
 ![After Adding the Lists](/TO-DO_UI/AddList.png)
 After entering the task and clicking add the task will display like this.
 
 ![Marking the task Completed](/TO-DO_UI/TaskCompleted.png)
-Once the task is completed we can mark the task completed by clicking on it and we also agin mark as incomplete by clicking it again. 
+Once the task is completed we can mark the task completed by clicking on it and we also mark it as incomplete by clicking it again. 
 
 ![Removing the Task](/TO-DO_UI/TaskRemove.png)
 Once completed we can remove the task from the list by clicking on the "close" or "cross" button
 
-We have used the local Storage so that even if we refresh the page or visit it again the task entered will remian the same with it's status
+We have used the local Storage so that even if we refresh the page or visit it again the task entered will remain the same with its status
 
 ## Geeting Started
 
@@ -70,7 +70,7 @@ The Software required for this project are:
 1. You can install the Vs code IDE from here Depending upon the OS you use
    (https://code.visualstudio.com/download)
 
-2. You can install Goggle Chrome from the following
+2. You can install Google Chrome from the following
    (https://www.google.com/chrome/?brand=YTUH&gclid=CjwKCAiA1-6sBhAoEiwArqlGPhvHNSduAAzHcSI6G6jEMcyWyLB_eGRoiXAGDrnP7x83Kru47Q78GxoC4ncQAvD_BwE&gclsrc=aw.ds)
 
 3. You can install Microsoft Edge from the following (if required)
